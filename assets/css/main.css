@@ -969,8 +969,7 @@ h6 {
 section,
 .section {
   color: var(--default-color);
-  background: blue !important;
-
+  background-color: var(--background-color);
   padding: 60px 0;
   scroll-margin-top: 135px;
   overflow: clip;

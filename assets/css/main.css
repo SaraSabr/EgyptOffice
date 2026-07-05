@@ -1034,14 +1034,16 @@ section,
 # Hero Section
 --------------------------------------------------------------*/
 .hero {
-  padding-top: 100px;
-  min-height: 60vh;
-  display: grid;
-  align-items: center;
-  position: relative;
-  padding-bottom: 60px;
-  /* Decorative background */
-  /* Swiper default fix if used somewhere inside */
+background-image:url('C:/Users/sabri/OneDrive/Desktop/مكتب مصر/assets/img/original-87f0f73d73f5105785583a7466b7fc8b.gif'); 
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+padding-top: 100px;
+min-height: 60vh;
+display: grid;
+align-items: center;
+position: relative;
+padding-bottom: 60px;
 }
 
 .hero::before {
